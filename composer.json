@@ -1,8 +1,8 @@
 {
-    "name": "defuse/php-encryption",
+    "name": "keboola-legacy/php-encryption",
     "description": "Secure PHP Encryption Library",
     "license": "MIT",
-    "keywords": ["security", "encryption", "AES", "mcrypt", "cipher"],
+    "keywords": ["deprecated"],
     "authors": [
         {
             "name": "Taylor Hornby",
